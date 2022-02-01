@@ -1,3 +1,5 @@
-# Github
+<h1> Netflixinicial</h1>
 
-Git init
+> Status: Finish ✔️
+
+### This project was done together with DIO. for a netflix splash screen representation project
